@@ -8,7 +8,7 @@
 
 ## Roll damage
 
-```
+``` Java
 int diceRoll = ((new Random().nextInt(6))+1);
 ```
 
