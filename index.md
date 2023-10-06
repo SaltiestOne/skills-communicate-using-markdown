@@ -12,6 +12,15 @@
 int diceRoll = ((new Random().nextInt(6))+1);
 ```
 
+## Bop It
+
+- [ ] Bop It
+- [ ] Twist It
+- [ ] Bomb the IRS Building
+
+
+
+
 
 
 I added some changes to the index because that's what you wanted. It's always about what you want...
