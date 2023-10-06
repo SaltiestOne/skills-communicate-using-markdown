@@ -16,8 +16,7 @@ int diceRoll = ((new Random().nextInt(6))+1);
 
 - [ ] Bop It
 - [ ] Twist It
-- [ ] Bomb the IRS Building
-
+- [ ] [My Lawyer advised me to edit this button]
 
 
 
